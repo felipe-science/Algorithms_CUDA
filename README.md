@@ -4,6 +4,6 @@
 
 * Matrix Multiplication;
 * The Hoshen-Kopelman Algorithms;
-* The Calculation of %\pi%;
+* The Calculation of $\pi$;
 * The sum vector.
 
