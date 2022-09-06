@@ -5,5 +5,5 @@
 * Matrix Multiplication;
 * The Hoshen-Kopelman Algorithms;
 * The Calculation of $\pi$;
-* The sum vector.
+* The sum vectors.
 
